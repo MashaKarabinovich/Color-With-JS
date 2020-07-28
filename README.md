@@ -1,3 +1,1 @@
-"# Color-With-JS" 
-"# Color-With-JS" 
-"# Color-With-JS" 
+this is just a little tutorial I tried out to get the hang of Javascript :)
